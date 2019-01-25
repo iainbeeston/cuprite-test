@@ -1,6 +1,7 @@
 GIT
-  remote: https://github.com/machinio/cuprite.git
-  revision: a6707edad6d3d3116bda6b8626011ee750c7c249
+  remote: https://github.com/iainbeeston/cuprite.git
+  revision: 10fb0d50e2d0b16e69797cea36fa1f08885ef412
+  branch: allow-cyclic-objects
   specs:
     cuprite (0.2.1)
       capybara (>= 2.1, < 4)

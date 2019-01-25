@@ -63,7 +63,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rspec-rails", "~> 3.8"
 
-gem "cuprite", github: "machinio/cuprite"
+gem "cuprite", github: "iainbeeston/cuprite", branch: "allow-cyclic-objects"
 
 gem "webpacker", "~> 3.5"
 
