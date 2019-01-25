@@ -1,4 +1,6 @@
 addons:
   chrome: stable
 before_script: yarn install
+env:
+  - CUPRITE_DEBUG=true
 language: ruby
