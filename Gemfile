@@ -66,3 +66,5 @@ gem "rspec-rails", "~> 3.8"
 gem "cuprite", github: "machinio/cuprite"
 
 gem "webpacker", "~> 3.5"
+
+gem "react-rails", "~> 2.4"
