@@ -1,9 +1,8 @@
 GIT
-  remote: https://github.com/iainbeeston/cuprite.git
-  revision: 10fb0d50e2d0b16e69797cea36fa1f08885ef412
-  branch: allow-cyclic-objects
+  remote: https://github.com/machinio/cuprite.git
+  revision: 41c18848431ecf4a234e197429861e722db81cef
   specs:
-    cuprite (0.2.1)
+    cuprite (0.3.0)
       capybara (>= 2.1, < 4)
       cliver (~> 0.3)
       websocket-driver (>= 0.6, < 0.8)
